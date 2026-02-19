@@ -24,7 +24,7 @@ jobs:
 
       - name: Add upstream remote
         run: |
-          git remote add upstream https://github.com/workcontrolgit/Duende-IdentityServer-v7-AdminUI.git
+          git remote add upstream https://github.com/workcontrolgit/TalentManagementNet9.git
           git fetch upstream master
 
       - name: Merge upstream master
